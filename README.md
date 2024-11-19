@@ -1,4 +1,6 @@
 # New York City Airbnb Price Prediction
 
 
-### Jeffrey Li, Fanchu Zhou, Ziao You
+### Creators: Jeffrey Li, Fanchu Zhou, Ziao You
+
+### Data Source: https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata/data
