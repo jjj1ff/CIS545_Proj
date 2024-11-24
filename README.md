@@ -1,6 +1,6 @@
-# New York City Airbnb Price Prediction
+# Credit Score Classification
 
 
 ### Creators: Jeffrey Li, Fanchu Zhou, Ziao You
 
-### Data Source: https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata/data
+### Data Source: https://www.kaggle.com/code/devraai/credit-score-classification-secrets
